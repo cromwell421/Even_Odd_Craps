@@ -6,7 +6,7 @@ import java.util.Random;
 * a roll of fair, six-sided die numbered 1 - 6.  
 * This class is used for educational purposes only.  
 * 
-* @author Sal LaMarca
+* 
 * @version 1.0, 02/16/2012
 ***********************************************************/
 public class RandomDie {
