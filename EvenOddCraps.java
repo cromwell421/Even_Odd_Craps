@@ -1,30 +1,3 @@
-/*
-* NameOfYourProgram.java
-* Author:  Jay Cromwell
-* Submission Date:  03/09/2012
-*
-* Purpose: This is a program that simulates a craps game. it asks the user if they want to play,
-* how many chips they want to bet and if they want to bet on even or odd.
-*
-* Statement of Academic Honesty:
-*
-* The following code represents my own work. I have neither
-* received nor given inappropriate assistance. I have not copied
-* or modified code from any source other than the course webpage
-* or the course textbook. I recognize that any unauthorized
-* assistance or plagiarism will be handled in accordance with
-* the University of Georgia's Academic Honesty Policy and the
-* policies of this course. I recognize that my work is based
-* on a programming project created by the Department of 
-* Computer Science at the University of Georgia. Any publishing CSCI 1301  |  Page 4 of 10
-* of source code for this project is strictly prohibited without written
-* consent from the Department of Computer Science.
-*/
-
-
-
-
-
 
 import java.util.Random;
 import java.util.Scanner;
